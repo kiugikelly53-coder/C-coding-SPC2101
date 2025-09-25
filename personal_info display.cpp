@@ -3,7 +3,7 @@
 CT101/G/26503/25
 COMPUTER SCIENCE
 GROUP A
-description-displaying personal info
+description-displaying semester units
 */
 int main(){
 	
@@ -20,4 +20,5 @@ int main(){
 
 	return 0;
 }
+
 
