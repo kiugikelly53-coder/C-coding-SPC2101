@@ -17,15 +17,7 @@ int main(){
 	printf("6.Discrete mathematics \n");
 	printf("7.Mathematics of science \n");
 	printf("8.Communication skills \n");
-	printf("STUDENTS HEIGHT \n");
-	printf("181cm \n");
-	printf("STUDENT BANK BALANCE \n" );
-	printf("eighteen thousand shillings \n");
-	printf("STUDENT  PHONE NUMBER \n")
-	;int phone_no = 719732582;
-	printf("phone_number is:%d",phone_no);
 
-	
-	
 	return 0;
 }
+
