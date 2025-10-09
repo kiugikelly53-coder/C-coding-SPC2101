@@ -2,7 +2,7 @@
 NAME-KELLY KIUGI
 REG NO-CT101/G/26503/25
 COURSE-COMPUTER SCIENCE,group A
-DISCRIPTION-number guesing bame
+DISCRIPTION-number guesing game
  
 */
 #include<stdio.h>
@@ -43,3 +43,4 @@ int main(){
 	
 	return 0;
 }
+
