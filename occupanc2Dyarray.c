@@ -10,7 +10,7 @@ int main(){
 	int occupancy[5][10];
 	for(i=0;i<=4;i++){
 		for(j=0;j<=9;j++){
-		printf("enter 0 or 1 to represent occupied or vaccant respectively:");
+		printf("enter 1 or 0 to represent occupied or vaccant respectively:");
 		scanf("%d",&occupancy[i][j]);	
 		}		
 	}
@@ -23,4 +23,5 @@ int main(){
 	}
 		
 	
+
 }
